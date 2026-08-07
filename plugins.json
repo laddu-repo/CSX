@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/Bollyflix.cs3",
         "status": 1,
         "version": 33,
         "name": "Bollyflix",
@@ -10,7 +10,7 @@
         ],
         "description": "Movies and Series upto 4K",
         "fileSize": 38129,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "language": "hi",
         "tvTypes": [
             "TvSeries",
@@ -23,7 +23,29 @@
         "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/Cinemalux.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Cinemalux",
+        "internalName": "Cinemalux",
+        "authors": [
+            "raghav"
+        ],
+        "description": "Cinemalux - Download Movies & TV Shows in 4K/1080p/720p with multi-audio MKV files (Google Drive links)",
+        "fileSize": 26270,
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://cinemalux.click/wp-content/uploads/2025/03/icons8-film-reel-48.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-af19663d93e3f95f5f9850e9cca5849c8b4a7204c7ee3c6271984e44fc8f44b2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/CineStream.cs3",
         "status": 1,
         "version": 479,
         "name": "CineStream",
@@ -32,8 +54,8 @@
             "megix"
         ],
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "fileSize": 731294,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 730730,
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "language": "en",
         "tvTypes": [
             "TvSeries",
@@ -44,10 +66,10 @@
         ],
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-041d459626596937b11eadad8963fb2ccb2c8c617764502031c655a310851f69"
+        "fileHash": "sha256-051312aaffeb2bfbf8a784846683c49b7cb2b08f44b9f5799c96049b55f4bd12"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/GDIndex.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/GDIndex.cs3",
         "status": 1,
         "version": 6,
         "name": "GDIndex",
@@ -56,7 +78,7 @@
             "Horis"
         ],
         "fileSize": 18257,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "language": "en",
         "tvTypes": [
             "Movie",
@@ -67,7 +89,7 @@
         "fileHash": "sha256-d6c6b8e49b1f98552fa81615c0a57218e2602eb52c261871e3290bb3d73e1c29"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/MoviesDrive.cs3",
         "status": 1,
         "version": 33,
         "name": "MoviesDrive",
@@ -77,7 +99,7 @@
         ],
         "description": "High Quality Movies and TV Shows",
         "fileSize": 47290,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "language": "hi",
         "tvTypes": [
             "TvSeries",
@@ -90,7 +112,7 @@
         "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/Moviesmod.cs3",
         "status": 1,
         "version": 32,
         "name": "Moviesmod",
@@ -100,7 +122,7 @@
         ],
         "description": "Includes Topmovies",
         "fileSize": 44386,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "tvTypes": [
             "TvSeries",
             "Movie",
@@ -112,7 +134,7 @@
         "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/OnlineMoviesHinditProvider.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/OnlineMoviesHinditProvider.cs3",
         "status": 1,
         "version": 6,
         "name": "OnlineMoviesHinditProvider",
@@ -122,7 +144,7 @@
         ],
         "description": "Use VPN",
         "fileSize": 11950,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "language": "hi",
         "tvTypes": [
             "TvSeries",
@@ -133,7 +155,7 @@
         "fileHash": "sha256-577919ca8bbf01ded9e9299851431447c5964e979a9c4eb73ffd82ca8733ae2d"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
+        "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/VegaMovies.cs3",
         "status": 1,
         "version": 82,
         "name": "VegaMovies",
@@ -143,7 +165,7 @@
         ],
         "description": "Includes LuxMovies, Rogmovies",
         "fileSize": 41565,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "language": "hi",
         "tvTypes": [
             "TvSeries",
