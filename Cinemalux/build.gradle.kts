@@ -1,4 +1,4 @@
-version = 2
+version = 3
 
 cloudstream {
     description = "Cinemalux - Download Movies & TV Shows in 4K/1080p/720p with multi-audio MKV files (Google Drive links)"
