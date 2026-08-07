@@ -25,14 +25,14 @@
     {
         "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/Cinemalux.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "Cinemalux",
         "internalName": "Cinemalux",
         "authors": [
             "raghav"
         ],
         "description": "Cinemalux - Download Movies & TV Shows in 4K/1080p/720p with multi-audio MKV files (Google Drive links)",
-        "fileSize": 26270,
+        "fileSize": 40730,
         "repositoryUrl": "https://github.com/laddu-repo/CSX",
         "tvTypes": [
             "Movie",
@@ -42,7 +42,7 @@
         ],
         "iconUrl": "https://cinemalux.click/wp-content/uploads/2025/03/icons8-film-reel-48.png",
         "apiVersion": 1,
-        "fileHash": "sha256-af19663d93e3f95f5f9850e9cca5849c8b4a7204c7ee3c6271984e44fc8f44b2"
+        "fileHash": "sha256-952b6d0c985d1e3bc9443486343b2f622c1eb88c2f1060fc8157dac8a9f7d593"
     },
     {
         "url": "https://raw.githubusercontent.com/laddu-repo/CSX/builds/CineStream.cs3",
